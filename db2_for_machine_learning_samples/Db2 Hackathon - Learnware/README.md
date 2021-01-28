@@ -1,6 +1,6 @@
 # Db2 Hackathon - Learnware
 
-Our recent Db2 hackathon demonstrate the versatile powers of Db2 combined with machine learning, web development, and blochaine. Through this hackathon, we had three amazing winners that used our products in intriguing ways that we would like to showcase. One of the three winners was ***Kuro Souza***. Kuro's project was called `Learnware`. This project used open source data in order to predict student performance. The steps below will show how to re-create Kuro's work for you to try out!
+Our recent Db2 hackathon demonstrate the versatile powers of Db2 combined with machine learning, web development, and blockhaine. Through this hackathon, we had three amazing winners that used our products in intriguing ways that we would like to showcase. One of the three winners was ***Kuro Souza***. Kuro's project was called `Learnware`. This project used open source data in order to predict student performance. The steps below will show how to re-create Kuro's work for you to try out!
 
 
 Original Data Files - https://www.kaggle.com/rocki37/open-university-learning-analytics-dataset
